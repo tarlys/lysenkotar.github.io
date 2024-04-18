@@ -1,7 +1,7 @@
 const element = document.getElementById('main-block')
 const options = {
   margin: 0.15,
-  filename: 'myfile.pdf',
+  filename: 'Taras_Lysenko_CV.pdf',
   image: { type: 'jpeg', quality: 0.98 },
   html2canvas: { scale: 2 },
   jsPDF: { unit: 'in', format: 'letter', orientation: 'portrait' },
